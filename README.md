@@ -1,3 +1,5 @@
+<input type="text" />
+
 # Wood Finish Recipes
 
 ## Chris Schwarz's Raw Linseed Oil Wax
