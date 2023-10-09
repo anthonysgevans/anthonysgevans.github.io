@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "subtitle"
+    subtitle = "Workshop Journal"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "anthony.s.g.evans@gmail.com"
