@@ -1,5 +1,5 @@
 title = "The Good Work Blog"
-baseURL = "https://blog.brightonworkbench.com/"
+baseURL = "https://www.thegoodwork.blog/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 # theme = "github.com/Lednerb/bilberry-hugo-theme/v4"
