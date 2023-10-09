@@ -160,6 +160,9 @@ disqusShortname = ""
     creditsText = "Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
+    # Custom CSS
+    # baseColor = "#1a4804"
+
 
 # customize your available languages for your multi-lingual site
 # or delete one of the [Languages.xx] blocks to use the theme with only one supported language
