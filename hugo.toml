@@ -1,4 +1,4 @@
-title = "Title"
+title = "The Good Work Blog"
 baseURL = "https://blog.brightonworkbench.com/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
@@ -28,8 +28,8 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Anthony S.G. Evans"
-  description = "Blog site for Brighton Workbench"
+  author = "Anthony Evans"
+  description = "Blog for Brighton Workbench"
   keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
