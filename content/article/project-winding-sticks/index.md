@@ -1,7 +1,7 @@
 ---
 title: "New Winding Sticks"
 date: 2023-10-09T19:35:10+01:00
-draft: false
+draft: true
 
 categories: ["tool making"]
 tags: ["Oak", "078 Fillister Plane", "Paul Sellers"]
