@@ -80,7 +80,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Workshop Journal"
+    subtitle = "The Hand Tool Woodworking Journal of Anthony Evans"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "anthony.s.g.evans@gmail.com"
@@ -103,7 +103,7 @@ disqusShortname = ""
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
-    # pinnedPost = "/article/installing-bilberry-theme/"
+    pinnedPost = "/pinned/welcome.md"
     # Set to true to pin only to the first page, false to all pages
     # pinOnlyToFirstPage = true
 
@@ -116,7 +116,7 @@ disqusShortname = ""
     dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = false
+    showReadingTime = true
 
     # Minimum word count to display the Table of Contents
     tocMinWordCount = 400
@@ -161,7 +161,7 @@ disqusShortname = ""
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
     # Custom CSS
-    # baseColor = "#1a4804"
+    baseColor = "#033612"
 
 
 # customize your available languages for your multi-lingual site
