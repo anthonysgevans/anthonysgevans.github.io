@@ -9679,7 +9679,7 @@ readers do not read off random characters that represent icons */
 .no-js .no-js-message {
   display: block;
   padding: 2em;
-  background-color: #033612;
+  background-color: #1d1f38;
   color: #f1f1f1;
   font-size: 0.9em;
   font-style: italic;
@@ -9791,7 +9791,7 @@ readers do not read off random characters that represent icons */
   .bilberry-hugo-theme #back-to-top-button {
     display: inline-block;
     color: #f1f1f1;
-    background-color: #033612;
+    background-color: #1d1f38;
     font-size: 2.5em;
     line-height: 45px;
     width: 45px;
@@ -9954,7 +9954,7 @@ readers do not read off random characters that represent icons */
         border-top: 1px solid rgba(228, 228, 228, 0.6);
         padding: 6px 12px; }
   .bilberry-hugo-theme header {
-    background-color: #033612;
+    background-color: #1d1f38;
     color: #f1f1f1;
     height: auto;
     display: flex;
@@ -10211,7 +10211,7 @@ readers do not read off random characters that represent icons */
             color: #999; }
           .bilberry-hugo-theme article .content .archive-list ul a:hover {
             left: 10px;
-            color: #033612;
+            color: #1d1f38;
             text-decoration: none; }
       .bilberry-hugo-theme article .content blockquote {
         background-color: #f6f6f6;
@@ -10260,7 +10260,7 @@ readers do not read off random characters that represent icons */
       align-items: center;
       flex-direction: row;
       justify-content: space-between;
-      background: rgba(3, 54, 18, 0.1);
+      background: rgba(29, 31, 56, 0.1);
       font-family: "Fira Code", monospace;
       font-size: 0.9em; }
       .bilberry-hugo-theme article .footer.no-tags {
@@ -10469,7 +10469,7 @@ readers do not read off random characters that represent icons */
           font-family: "Open Sans", sans-serif; }
           .bilberry-hugo-theme footer .container ul a:hover {
             left: 10px;
-            color: #033612; }
+            color: #1d1f38; }
       .bilberry-hugo-theme footer .container .right .external-profiles {
         width: 100%;
         margin-bottom: 2em; }
