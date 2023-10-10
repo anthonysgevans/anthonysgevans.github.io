@@ -6,4 +6,7 @@
     {{ partial "featured-image.html" .ctx }}
     {{ partial "default-content.html" (dict "ctx" .ctx "template_type" .template_type) }}
     {{ partial "article-footer.html" .ctx }}
+    <script defer src="https://cdn.commento.io/js/commento.js"></script>
+    <div id="commento"></div>
 </article>
+

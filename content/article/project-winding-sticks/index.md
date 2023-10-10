@@ -1,7 +1,7 @@
 ---
 title: "New Winding Sticks"
 date: 2023-10-09T19:35:10+01:00
-draft: true
+draft: false
 
 categories: ["tool making"]
 tags: ["Oak", "078 Fillister Plane", "Paul Sellers"]
@@ -9,6 +9,8 @@ toc: false
 author: ""
 resizeImages: false
 noSummary: true
+icon: fa-regular fa-hand
+featuredImage: "https://link.assetfile.io/4Pt1QFy4SVwrfcHDH0Ey4n/liberon_raw_linseed.jpg"
 ---
 **They look better but work the same.**
 
