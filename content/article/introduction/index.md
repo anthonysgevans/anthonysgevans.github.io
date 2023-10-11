@@ -1,5 +1,5 @@
 ---
-title: "🎉 Hand Tool Woodworking for All 📏📏🪚"
+title: "Hand Tool Woodworking for All 📏📏🪚"
 date: 2023-10-11T11:38:54+01:00
 draft: false
 
