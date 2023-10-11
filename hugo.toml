@@ -104,7 +104,7 @@ disqusShortname = ""
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
-    # pinnedPost = "/article/installing-bilberry-theme/"
+    pinnedPost = "/content/article/introduction/"
     # Set to true to pin only to the first page, false to all pages
     # pinOnlyToFirstPage = true
 
