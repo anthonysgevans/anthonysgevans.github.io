@@ -8,11 +8,12 @@ tags: []
 toc: false
 author: ""
 noSummary: true
+icon: "fa-thumb-tack"
 ---
-Hi, I'm Anthony, a Welsh born Brighton based community taught 
-hand tool woodworker.    
+Hi, I'm Anthony. The Good Work Blog is where I document the things I learn about hand
+tool woodworking as I learn them. 
 
-The Good Work Blog is where I try to document the things I learn about hand
-tool woodworking as I learn them. Here you'll find posts about what I've read, what I've watched, and
+Here you'll find posts about what I've read, what I've watched, 
 what I've done and what I'm doing in the world of hand tool woodwork.  
 
+<!-- Don't forget **subscribe to the mailing list** to know when there's a new post. 👇 -->
