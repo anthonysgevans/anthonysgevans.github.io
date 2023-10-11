@@ -16,4 +16,4 @@ tool woodworking as I learn them.
 Here you'll find posts about what I've read, what I've watched, 
 what I've done and what I'm doing in the world of hand tool woodwork.  
 
-<!-- Don't forget **subscribe to the mailing list** to know when there's a new post. 👇 -->
+Don't forget to add the [RSS feed](https://www.thegoodwork.blog/index.xml) to your reader to know when there's a new post. 
