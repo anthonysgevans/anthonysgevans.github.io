@@ -1,5 +1,6 @@
 title = "The Good Work Blog"
 baseURL = "https://www.thegoodwork.blog/"
+#baseURL = "https://dev.thegoodwork.blog/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
 # theme = "github.com/Lednerb/bilberry-hugo-theme/v4"
@@ -29,8 +30,8 @@ disqusShortname = ""
 
   # Description and meta data for the search engines
   author = "Anthony Evans"
-  description = "Blog for Brighton Workbench"
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,syntax highlighting,premium,shortcuts"
+  description = "The Good Work Blog is the hand tool woodworking journal of Anthony Evans"
+  keywords = "blog,personal,responsive,search,woodworking,hand tools,brighton,wales,font awesome,pages,posts,multilingual,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -80,7 +81,7 @@ disqusShortname = ""
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Workshop Journal"
+    subtitle = "The Hand Tool Woodworking Journal of Anthony Evans"
 
     # if you want to use libravatar or gravatar for the header image
     avatarEmail = "anthony.s.g.evans@gmail.com"
