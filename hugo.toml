@@ -25,7 +25,7 @@ disqusShortname = ""
   # Files are relative to the static/ directory or a URL.
   # Files are imported in the order they appear here, after
   # theme.css and theme.js, respectively.
-  css_modules = []
+  css_modules = ['css/email-form.css']
   js_modules = []
 
   # Description and meta data for the search engines
@@ -48,7 +48,7 @@ disqusShortname = ""
   algolia_currentLanguageOnly = true
 
   # Enable / Disable comments on the articles via commento
-  # commentoJsURL = "https://commento.lednerb.de/js/commento.js"
+  #commentoJsURL = "https://commento.lednerb.de/js/commento.js"
 
   # Enable / Disable Giscus comments
   giscus             = false
@@ -104,7 +104,7 @@ disqusShortname = ""
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
-    pinnedPost = "/content/article/introduction/"
+    pinnedPost = "/article/introduction/"
     # Set to true to pin only to the first page, false to all pages
     # pinOnlyToFirstPage = true
 
