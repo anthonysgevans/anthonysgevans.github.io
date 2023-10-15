@@ -52,6 +52,12 @@
         {{ end }}
 
         {{ .ctx.Content }}
+        {{ if ( .ctx.Params.showComments | default false ) }}
+            <p><em>Feel free to leave a comment below, or email
+        <a href="mailto:anthony@thegoodwork.blog">anthony@thegoodwork.blog</a></em></p>
+            <script defer src="https://cdn.commento.io/js/commento.js"></script>
+            <div id="commento"></div>   
+        {{ end }}
     {{ else }}
         {{ .ctx.Summary }}
 
@@ -63,4 +69,5 @@
     {{ if ( .ctx.Params.showEmailForm | default false ) }}
         {{ partial "email-form.html" }}  
     {{ end }}
+
 </div>
